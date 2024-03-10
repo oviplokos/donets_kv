@@ -41,7 +41,7 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ------
-
+[![backup-01](https://github.com/oviplokos/donets_kv/blob/main/img/backup-01.png)]
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
@@ -52,3 +52,7 @@
 
 
 ---
+[Файл crontab](https://github.com/oviplokos/donets_kv/blob/main/crontab.txt)
+---
+[![backup-02](https://github.com/oviplokos/donets_kv/blob/main/img/backup-02.png)]
+
